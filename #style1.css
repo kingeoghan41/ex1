@@ -1,0 +1,19 @@
+#style1.css
+
+a:link{
+    color:pink;
+    text-decoration: none;
+    background-color: cyan;
+}
+
+a:visited{
+    color:rgb(219, 187, 43);
+    text-decoration: none;
+    background-color: rgb(185, 94, 197);
+}
+
+h1{
+    background-color: cyan;
+    color: aliceblue;
+    text-align: center;
+}
